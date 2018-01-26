@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+.error {
+    padding: 15px;
+    color: white;
+    background: rgb(212, 23, 23);
+    font-weight: bold;
+}
+
+button {
+    background: rgb(79, 79, 236);
+    padding: 10px 15px 10px 15px;
+    cursor: pointer;
+    color: white;
+    border: 0;
+    font-weight: bold;
+    transition: background .1s ease-in;
+}
+
+button:hover {
+    background: rgb(55, 55, 153);
+}
+
+label {
+    display: block;
+}

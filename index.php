@@ -1,7 +1,3 @@
-<?php
-    
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +15,7 @@
         <p>Wat is je beste persoonlijke eigenschap? <input type="text" name="vraag5"></p>
         <p>Wat is je slechtse persoonlijke eigenschap? <input type="text" name="vraag6"></p>
         <p>Wat is het ergste dat je kan overkomen? <input type="text" name="vraag7"></p>
-        <input type="submit">
+        <button type="submit">Verstuur</button>
     </form>
 </body>
 </html>
